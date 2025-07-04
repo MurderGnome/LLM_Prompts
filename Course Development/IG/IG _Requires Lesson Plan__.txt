@@ -1,0 +1,83 @@
+As an expert in creating instructional guidance, I need you to do the following steps:
+
+Step 1: Internally analyze the following information contained in brackets, to generate instructional guidance based on the lesson plan that I provide in step 4.
+Step 2: After I submit the information provided in brackets, acknowledge that you understand what you are supposed to do by saying " I will analyze the provided information to generate instructional guidance based on the lesson plan you provide. Please go ahead and provide the lesson plan."
+Step 3:  Ask me to provide the lesson plan. 
+Step 4: Wait for me to submit the full lesson plan.
+Step 5:  Generate instructional guidance in paragraph form based on the lesson plan.
+
+[The interaction between instructors and students is crucial for effective learning and assessment. Instructors play a vital role in engaging with students, providing learning activities, evaluating their knowledge, structuring lessons, and addressing their questions to ensure a clear understanding of the subject matter. It is essential to provide students with adequate resources to support their comprehension. Continuous interaction with students help instructors assess their understanding and determine the most effective ways to present information, thereby maximizing their learning opportunities. Collaborating within small teams is also key to success as students navigate the course material. 
+
+During the orientation phase, it is important to assess team dynamics and, if applicable, assign students to teams. Team assignments should be based on factors such as learning styles, personality, ASVAB scores, experience, and time in service. For large classes, teams should ideally consist of three to four students, while smaller class sizes may require teams of two. 
+
+When beginning a new objective, it is crucial to reassess team dynamics and adjust if necessary. When reassessing team dynamics, consider students' academic performance, learning styles, personality, ASVAB scores, experience, and time in service. If there is a possibility of unnecessary conflict or hindrance to learning, instructors may need to move students between teams during an objective or module. Additionally, ensure that students have access to reference materials and their student workbooks. In cases where an objective spans multiple days, start each day by briefly reviewing and assessing students' progress and understanding of the material. Summarize the key points of the objective before proceeding with the learning activity. 
+
+General Facilitation Requirements: 
+
+Encourage active participation, such as assigning different roles within the group (e.g., discussion leader, note-taker, timekeeper, presenter, etc) to ensure equitable engagement. See Cooperative Learning Strategies provided in the Active Learning Toolkit for more details.  
+
+Instructors have ACADEMIC FREEDOM so they have autonomy to employ diverse facilitation methods and activities that support inquiry-based learning approaches, as long as they align with the intended purpose of the course, lesson plans, and learning outcomes. Instructors should seek activities that fulfill the intent of the "general facilitation requirements" outlined in item 7 of the forward. However, instructors are mandated to avoid relying solely on lectures and must actively engage students through a variety of facilitation methods to adhere to the principles of student-centered learning.  
+
+Introduction: Utilize the lesson plan to provide the students with a demonstration or real-world example to grab students' attention, get them engaged in the topic and provide context for the learning activities. The introduction is not an opportunity to lecture about the topic or teach concepts.  
+
+Develop Questions:  Engage students who have no prior knowledge about the topic, by incorporating an activity like a KWL (know, want to know, learned). These activities should aim to activate and connect students' existing knowledge and establish a foundation for further learning.  
+
+Organize the students into groups and encourage students to observe and discuss the concepts presented in the introduction carefully.  Have them make connections with any similar concepts in introducing they might have encountered in previous jobs, school, or life at home.  Instruct the students to discuss and document their prior knowledge about the topic. They should write down what they already know or have experienced related to the subject matter. Emphasize that this should be based on their personal understanding, not on any new information gained from the demonstration.  
+
+Encourage students to generate objective questions or express their curiosities about the content. These questions should focus on what they want to learn or explore further. For instance, students might wonder about the specific hazards mentioned in an SDS or how the information is organized. Encourage students to reflect on their relationship with the content, their past experiences, the questions they have, and any predictions they might make about what they will learn. 
+
+After the activity, each group will turn towards the center of the room. The students should stand up, share their questions and experiences with the class. The instructor will facilitate the discussion and align student questions with the learning outcome(s) and guided questions to motivate students to learn the material. Additionally, the instructor will listen intently to what is being discussed and take note of each students experience level of the topic. The instructor can use this information to prime cooperative learning strategies during the later research stage. A list of what the class wants to know will be written down as a collective by a student so the list can be easily viewed by the class. The instructor will use the list of want to knows to supplement the end of lesson review and use the learned to supplement the students reflection of the lesson. 
+
+Explore Research: To begin each learning activity, utilize the lesson plan to provide key points and directions for the students. Encourage students to ask questions if any directions are unclear. If questions arise, facilitate peer assistance by first allowing other students to help clarify. Step in to provide aid if no student can assist. 
+
+Ensure students have access to the necessary resources and information required to explore the guided questions. This may include articles, videos, case studies, or other relevant materials. Encourage active engagement with these resources and urge students to seek out additional information to deepen their understanding of the topic. 
+
+Instruct students to open their student workbooks and independently read the directions for the learning activity. The student workbook contains guided questions and activities aligned with the learning outcomes. These questions are designed to encourage critical thinking and engagement, utilizing Bloom's Taxonomy Question Stems according to the appropriate learning level. Encourage students to ask questions if any directions are unclear. If questions arise, facilitate peer assistance by first allowing other students to help clarify. Step in to provide aid if no student can assist. 
+
+Before commencing the research phase, prompt students to engage in a discussion and create a plan encompassing a simple course of action, role assignment, and next steps. Recognize that planning is an integral part of learning that often occurs subconsciously. Revealing the subconscious planning process can help students develop metacognitive skills. 
+
+Direct students to complete the learning activity, which entails interpreting information, solving problems, or fulfilling assigned tasks. During the activity, students are responsible for task completion. As the instructor, actively seek opportunities to enhance the student learning experience, make timely decisions, track and monitor individual, group, and class progress, and utilize available resources such as students, materials, activities, and instructional aides to enhance learning. Continuously consider the learning outcomes, schedule, classroom direction, and strategies to promote collaboration. 
+
+During the collaboration phase, ask yourself the following questions to guide your facilitation: 
+
+- What are my students learning? 
+
+- What are their goals? 
+
+- Is their progress slow or fast? 
+
+- Should I pause and teach something? 
+
+- Can I leverage another student or group to teach this concept? 
+
+- What can I do to encourage increased interaction among students? 
+
+- Are all groups on task? 
+
+- Is that particular group functioning effectively together? 
+
+- Should I consider rearranging groups? 
+
+- Could incorporating a game enhance the learning experience? 
+
+- What aspects are unclear to the students, and what do they already understand? 
+
+- What visual aids or demonstrations can I employ to enhance comprehension? 
+
+- How can I ask questions that redirect their thinking? 
+
+- What questions do the students currently have? 
+
+Align Conclusions: Once the learning activity is complete, have students turn away from their desks to minimize distractions. Select one or more groups to present their findings and conclusions to the rest of the students. The communication should be directed towards their peers, not the instructor. While the presenting group speaks, all other students will take notes on the information shared. They will then provide feedback, ask questions, or compare answers. As the instructor, monitor the students' understanding and provide feedback as needed based on their responses to the guided questions. 
+
+After completing all activities, revisit the student questions from the “Develop Questions” stage to ensure their curiosities have been addressed. Allow students to answer their own questions first and facilitate a discussion for the remaining questions. 
+
+Lastly, prompt students to reflect on their learning process and identify key takeaways. Encourage them to create a "Reflection Journal" per the lesson plan to document their learning journey. Additionally, have students summarize what they have learned in an objective manner. This step enhances their understanding of their own thinking process as learners, which is the core principle of metacognition. Furthermore, this approach creates a historical record of students' learning progress, which can be valuable for future reference. 
+
+As needed, fill in any information gaps through facilitation or concise instructions. Incorporate personal experiences, visual aids, and examples when necessary. Ensure that all information on the left-hand side of the Lesson Plan has been covered and assess the overall understanding of the learning outcomes. If students demonstrate a comprehensive understanding of all learning outcomes, provide the appraisal or capstone activity. 
+
+During the appraisal or capstone activity, read aloud all the directions to the students. Ensure that they understand the instructions and address any questions they may have. Once all students have completed the appraisal or capstone, provide them with a break so that rubric grading can take place without distractions. 
+
+Review the student submissions and utilize the grading rubric to provide feedback to each student. When students return to the classroom after the break, give them time to review their feedback and allow them to ask questions if needed. 
+
+If a group does not meet a criterion, provide them with verbal feedback to help them understand where they fell short. As the instructor, you may ask high-performing groups to share their answers with the class as a way of providing additional examples and promoting peer learning.]

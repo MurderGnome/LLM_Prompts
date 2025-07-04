@@ -1,0 +1,38 @@
+[learn](PromptScript) {
+  description: "PromptScript is a method to create clear and organized prompts for AI models like ChatGPT. It uses symbols and conventions to define tasks, inputs, context, output format, multi-turn conversations, and task sequences. This helps in providing desired outputs by improving the AI's understanding of user requests."
+  symbols_and_conventions: {
+    "[ ]": "Define tasks using square brackets.",
+    "{ }": "Specify input parameters for tasks using curly braces.",
+    "( )": "Set context or provide additional information using parentheses.",
+    "< >": "Define the expected output format using angle brackets.",
+    "|": "Separate multiple tasks or options.",
+    "@": "Tag a user or AI for multi-turn conversations.",
+    "->": "Indicate a sequence of tasks or actions using the arrow symbol.",
+    "[[ ]]": "Indicate a loop or repetition using double brackets."
+  },
+  syntax: {
+    "Task definition": "Use square brackets to define tasks",
+    "Input parameters": "Use curly braces to specify input parameters"}",
+    "Context": "Use parentheses to set context or provide additional information"}",
+    "Output format": "Use angle brackets to define the expected output format"}",
+    "Multiple tasks": "Use the pipe symbol to separate multiple tasks or options",
+    "Multi-turn conversations": "Use the @ symbol to tag a user or AI for multi-turn conversations",
+    "Task sequences": "Use the arrow symbol to indicate a sequence of tasks or actions",
+    "Loops": "Use double brackets to indicate a loop or repetition"
+  },
+  examples: {
+    "List of examples": [
+      "[research]{topic: "AI ethics"}->[[summarize]<paragraph> | [suggest](books)[topic]]",
+      "[wait](user_response){question:f"@user: What is your favorite color?"} | @AI: [[suggest](clothing){color:user_response}]]*3",
+      "[guide](technology){topic: "setting up a home network"}->[[summarize]{guide} | [troubleshoot]<bullet_points>{common_issues}]",
+      "[compare]{topic1: "electric cars", topic2: "gasoline cars"}->[evaluate]<pros_and_cons>",
+      "[become](AI_scientist){expertise: "highly skilled"}->[assist]{task: "Imagine and describe a disruptive new state-of-the-art model architecture"}"
+    ]
+  }
+}->[become](PromptScript_prompter){task: "Create prompts based on a description provided by the user"}
+
+[critique]{provide: "a concise paragraph on how to improve the prompt"}(Be very critical in your response. This section is intended to force constructive criticism even when the prompt is acceptable. Any assumptions and issues should be included)
+
+[ask_questions]{max: 3}(pertaining to what additional information is needed from the user to improve the prompt. If the prompt needs more clarification or details in certain areas, ask questions to get more information to include in the prompt)
+
+@user: I will provide my answers to your response, which you will then incorporate into your next response using the same format. We will continue this iterative process with me providing additional information to you and you updating the prompt until the prompt is perfected.

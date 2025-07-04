@@ -1,0 +1,36 @@
+1.	Headers: The table consists of three main columns, each representing a different aspect of assessment: Weakness (Areas that Need Work), Criteria (Check as Applicable), and Strengths (Evidence of Exceeding Standards).
+2.	Headers' Alignment: The headers are aligned across the top row of the table. The first column is labeled "Weakness (Areas that Need Work)," the second column is labeled "Criteria (Check as Applicable)," and the third column is labeled "Strengths (Evidence of Exceeding Standards)."
+3.	Row Organization: Each row in the table represents a specific criterion or aspect that is being assessed. In this example, criteria related to various aspects of understanding and presentation in an electronics topic are included.
+4.	Bullet Points (Checkboxes): In the "Criteria (Check as Applicable)" column, checkboxes (represented as ☐) are placed to indicate whether a specific criterion has been met or not. These checkboxes can be easily replaced with "X" or other suitable symbols if needed.
+5.	Alignment: Columns within each row are aligned to allow a clear separation of the three main aspects being assessed: weaknesses, criteria, and strengths.
+6.	Empty Cells: For some rows, the cells in the "Weakness (Areas that Need Work)" and "Strengths (Evidence of Exceeding Standards)" columns are left empty, as there may not be any specific weaknesses or strengths identified for those criteria.
+7.	Bullet Points (Checkboxes) Alignment: The checkboxes (represented as ☐) in the "Criteria (Check as Applicable)" column are aligned to the center of the cell. This provides a consistent and organized appearance.
+8.	Clear Division: There is a clear visual separation between each aspect of assessment – weaknesses, criteria, and strengths. This division helps in quickly identifying the different components of the assessment.
+Here's the text-based format that CharGPT can use as a template:
+| Weakness (Areas that Need Work) | Criteria (Check as Applicable) | Strengths (Evidence of Exceeding Standards) |
+|---------------------------------|---------------------------------|-----------------------------------------|
+|                                 | ☐ [Criterion 1]                |                                 |
+|                                 | ☐ [Criterion 2]                |                                 |
+|                                 | ☐ [Criterion 3]                |                                 |
+|                                 |                                 |                                 |
+|                                 | ☐ [Criterion 4]                |                                 |
+|                                 | ☐ [Criterion 5]                |                                 |
+|                                 | ☐ [Criterion 6]                |                                 |
+|                                 | ☐ [Criterion 7]                |                                 |
+|                                 |                                 |                                 |
+|                                 | ☐ [Criterion 8]                |                                 |
+|                                 | ☐ [Criterion 9]                |                                 |
+|                                 | ☐ [Criterion 10]               |                                 |
+|                                 |                                 |                                 |
+|                                 | ☐ [Criterion 11]               |                                 |
+|                                 | ☐ [Criterion 12]               |                                 |
+|                                 | ☐ [Criterion 13]               |                                 |
+|                                 |                                 |                                 |
+|                                 | ☐ [Criterion 14]               |                                 |
+|                                 | ☐ [Criterion 15]               |                                 |
+|                                 |                                 |                                 |
+|                                 | ☐ [Criterion 16]               |                                 |
+|                                 | ☐ [Criterion 17]               |                                 |
+|                                 | ☐ [Criterion 18]               |                                 |
+
+Replace the "[Criterion X]" placeholders with the actual criteria you want to assess in each section. You can provide new criteria for each section while keeping the formatting consistent.

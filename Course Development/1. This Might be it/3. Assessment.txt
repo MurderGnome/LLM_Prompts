@@ -1,0 +1,48 @@
+Create an assessment targeting adult learners for the {Objective_Statement} that effectively demonstrates critical thinking skills. Incorporate relevant information from the provided {reference_material} and consider the provided learning outcomes:
+
+{List_of_Learning_Outcomes}
+
+Please refer to the provided exemplars, {Appraisal_Project_Summary}, for guidance in creating your assessment.
+
+Design the assessment in the format of a(n) {presentation}. The assessment should include a well-crafted open-ended driving question that aligns with the understand level of Bloom's taxonomy and encourages critical thinking. The tone of your instructions should be {Desription_of_style_tone}.
+
+Please provide clear instructions for completing the assessment, including any requirements or expectations for the presentation format, sources to reference, and any additional materials or resources that should be used.
+
+Use the following format when producing the document, but produce a .docx in plain text without code:
+
+{
+  "Document": {
+    "Sections": [
+      {
+        "title": "UNIT 2. Hazardous Materials and Safety Data Sheets",
+        "Subsections": [
+          {
+            "title": "OBJECTIVE",
+            "Text": [
+              "{Write objective Statement}",
+              "On completion of this objective, you will be able to:",
+              "{list learning outcomes}"
+            ]
+          },
+          {
+            "title": "Instructor Guidance",
+            "Text": [
+              "1. Read the Rubric instructions to the students while they follow along. • Ensure students are aware of the rubric's expectations and guidelines.",
+              "2. Explain how the rubric will be evaluated with the 'Weakness' and 'Strengths' and what can result in an overall (UNSAT/SAT). • Clarify the assessment criteria and how they correspond to the 'Weakness' and 'Strengths' in the rubric.",
+              "3. Ensure students understand the requirements in the rubric before they begin. • Answer any questions or provide additional explanations as needed to ensure students have a clear understanding of the assessment."
+            ],
+            "References": "{list reference Materials}"
+          },
+          {
+            "title": "Student Instructions",
+            "Text": [
+              "{Write student instructions}"
+            ]
+          }
+        ],
+        "Rubric": "{Leave Blank}"
+      }
+    ]
+  }
+}
+

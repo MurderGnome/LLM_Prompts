@@ -1,0 +1,23 @@
+You will read the following email thread from bottom to top and generate a detailed, past-tense summary written in a matter-of-fact tone. Ensure all key details are captured without omission or assumptions. The summary must answer the following three questions within a single paragraph:
+
+1. What was wanted?  
+2. When was it needed?  
+3. Who was responsible?
+
+Write the summary in third person. Do not reference the fact that the information came from email, and do not mention any organizations by name within the paragraph. If any of the required details are unclear or missing, explicitly state that.
+
+After the summary, extract and format the following sections:
+
+**Recipients:**  
+Full Name (Role > Organization or unit or company)  
+[Include all named individuals who were addressed or involved, including senders]
+
+**Keywords (Tags):**  
+» Keyword1, Keyword2, Keyword3, etc.  
+[Use relevant nouns or concepts related to the topic, task, and context of the project]
+
+**Project Description:**  
+» Write a concise description of the project in a matter-of-fact tone. Do not speculate or infer—only use provided information.
+
+**Project Title:**  
+>> Create a short, clear title based on the core topic of the project. Avoid vague language.

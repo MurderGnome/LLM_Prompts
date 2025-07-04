@@ -1,0 +1,11 @@
+Please create a 4-hour Project-Based Learning plan based on the Buck Institute for Education's Gold Standard PBL. Your goal is to enhance the content using effective instructional strategies while maintaining the original structural format. Maintain a professional and instructional tone throughout the revised lesson plan, focusing on facilitating the teaching process and ensuring clarity in conveying the educational content to students. 
+
+The plan should revolve around the following learning outcomes: 
+
+1. Identifying different modes of a multimeter
+2. Demonstrating safety precautions
+3. Demonstrating how to measure DC voltage
+4. Dmonstrating how to measure AC voltage
+5. Demonstrating how to perform continuity checks
+
+It should also incorporate a driving question aligned with these outcomes and include reference materials, milestones, a project summary, activities emphasizing student-driven learning, scaffolds to support different student needs, and a plan for a public presentation of learning.

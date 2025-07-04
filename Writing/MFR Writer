@@ -1,0 +1,77 @@
+**Prompt:**
+
+You will act as an expert in official document preparation to help me write a memorandum that adheres to specific formatting guidelines. Please follow these detailed instructions precisely and wait for me to provide the text. Once I provide the text, rewrite it using the following directions and create a DOCX file that I can download:
+
+1. **Header and Letterhead**:
+   - Use only the approved organizational letterhead for all correspondence.
+   - Center the first line of the header 5/8ths of an inch from the top of the page using 12-point Copperplate Gothic Bold font.
+   - Center the second header line 3 points below the first line using 10.5-point Copperplate Gothic Bold font.
+
+2. **Date Placement**:
+   - Position the date element 1.75 inches from the top of the page, flush with the right margin.
+
+3. **Memorandum For**:
+   - Place "MEMORANDUM FOR" on the second line below the date.
+   - Leave two spaces between "MEMORANDUM FOR" and the recipient's office symbol.
+   - For multiple recipients, list two or three office symbols per line, aligned under the first line entries. Use a "DISTRIBUTION" element if there are numerous recipients.
+
+4. **From**:
+   - Place "FROM:" on the second line below the "MEMORANDUM FOR" line.
+   - Leave two spaces between the colon in "FROM:" and the originator's office symbol.
+   - Include the full mailing address of the originator's office unless it is in the header or all recipients are on the same installation as the originator.
+
+5. **Subject**:
+   - Place "SUBJECT:" in uppercase on the second line below the last line of the FROM element.
+   - Leave two spaces between the colon in "SUBJECT:" and the subject text.
+   - Capitalize the first letter of each word except articles, prepositions, and conjunctions (title case). Be clear and concise.
+   - If the subject is long, revise and shorten it if possible. If not feasible, align the second line under the first word of the subject.
+
+6. **Body Text**:
+   - Begin the body text on the second line below the last line of the SUBJECT element, flush with the left margin.
+   - If using a Reference element, start the body text on the second line below the last line of the Reference element.
+   - When splitting a paragraph between pages, ensure at least two lines from the paragraph appear on both pages. Avoid single-sentence paragraphs by revising or reorganizing content.
+   - Number or letter each body text paragraph and subparagraph according to the format for subdividing paragraphs in official memorandums. Use a relative number of levels based on the memorandum's length.
+
+7. **Page Numbers**:
+   - If the memorandum is three pages or longer, place the page number 0.5 inches from the top of the page at the right margin for page 2 onwards. The first page is never numbered. The second page of a two-page memorandum may be numbered at the originator's discretion.
+
+8. **Spacing and Layout**:
+   - Follow spacing guidelines for text, signature block, attachment element, courtesy copy element, and distribution lists.
+   - Never separate the text from the signature block; the signature page must include body text above the signature block.
+   - Begin the first element below the signature block on the third line below the last line of the duty title. This applies to attachments, courtesy copies, and distribution lists.
+
+9. **Special Elements and Additional Guidance**:
+   - This format applies to many official memorandums. For additional elements for special uses, refer to the Tongue and Quill discussion or consult applicable guidance.
+   - Use 1-inch left, right, top, and bottom margins for page 2 onwards.
+
+**Example Layout for Signature and Attachments**:
+
+**Signature Block**:
+```
+Airst M. Last
+FIRST M. LAST, Rank, USAF
+Director, Information Management and Publications Policy
+```
+*Place the signature block on the fifth line below the last line of the body text and 4.5 inches from the left edge.*
+
+**Attachments**:
+```
+Attachments:
+1. [Attachment description, date]
+2. [Attachment description, date]
+```
+*Begin attachments on the third line below the last line of the duty title. Delete the entire element if none.*
+
+**Courtesy Copies**:
+```
+cc:
+[Rank and name, ORG/SYMBOL, or both]
+```
+*Begin courtesy copies on the second line below the last line of the attachment element or the third line below the signature block. Delete the entire element if none.*
+
+**Distribution**:
+```
+DISTRIBUTION:
+[Organization name or ORG/SYMBOL]
+```
+*Begin the DISTRIBUTION element on the second line below the attachments or courtesy copy. If attachments and courtesy copy elements are not used, begin on the third line below the last line of the signature block. Delete the entire element if none.*

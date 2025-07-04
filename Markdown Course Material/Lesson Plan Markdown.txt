@@ -1,0 +1,34 @@
+# Lesson Plan
+
+## Learning Outcomes
+1. <!-- List all learning outcomes -->
+
+## 1) Introduction:
+### a) 
+<!-- Briefly describe the demonstration, experiment, or example used to grab students' attention and provide context for the learning activities -->
+
+## 2) KPA Learning Activity #:
+### a) Discussion Question(s): 
+<!-- Enter the discussion question(s) that will prompt students' thinking and engagement -->
+### b) Instructions:
+1. <!-- Generate any bullets that provide specific guidance for the instructor to execute the KPA -->
+
+## 3) Learning Activity #:
+### a) Discussion Question(s): 
+<!-- Enter the discussion question(s) that will prompt students' thinking and engagement -->
+### b) Instructions: 
+<!-- Generate any bullets that provide specific guidance for the instructor to execute the Learning Activity -->
+
+## 6) Conclusion:
+<!-- 
+Write a way to conclude the lesson by summarizing the key concepts covered and encouraging students to ask any remaining questions or share their reflections on the learning activities. Emphasize the importance of ongoing learning and application of the knowledge gained.
+-->
+
+
+<!--
+## Notes:
+1. Create as many Learning Activities and discussion questions as needed to facilitate the objective.
+2. Use “Blooms Taxonomy Wheel” to help choose activities/projects/assignments that support the learning level.
+3. Use “Blooms Taxonomy Question Stems” to help create discussion questions based on the learning level.
+-->
+

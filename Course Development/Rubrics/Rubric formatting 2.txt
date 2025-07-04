@@ -1,0 +1,95 @@
+Language for Objective Criteria Explanation: For each criterion, the "Criteria (Check as Applicable)" column includes specific objectives or expectations that need to be met. These are written in a clear and concise manner to ensure they are easily understandable and measurable. The use of checkboxes allows for a straightforward assessment of whether the criteria have been fulfilled.
+Criteria:
+[Essay Guidelines:
+•	Your essay should be a minimum of 150 words and a maximum of 250 words.
+•	Ensure that your response is clear, concise, and well-organized.
+•	Use appropriate technical terminology and concepts.
+•	Provide real-world examples or applications wherever relevant to illustrate your points.
+•	Use diagrams or schematics if necessary to support your explanations.
+Assessment Criteria:
+Your essay will be evaluated based on the following criteria:
+1.	Clarity and Depth of Explanation: How well you explain the concepts of capacitance and inductance.
+2.	Understanding of Behavior: How effectively you describe the behavior of capacitors and inductors.
+3.	Application to Reactive Circuits: Your ability to recognize and explain the significance of capacitors and inductors in reactive circuits.
+4.	Overall Presentation: The organization, coherence, and clarity of your essay.]
+
+
+1.	Headers: The table consists of three main columns, each representing a different aspect of assessment: Weakness (Areas that Need Work), Criteria (Check as Applicable), and Strengths (Evidence of Exceeding Standards).
+2.	Headers' Alignment: The headers are aligned across the top row of the table. The first column is labeled "Weakness (Areas that Need Work)," the second column is labeled "Criteria (Check as Applicable)," and the third column is labeled "Strengths (Evidence of Exceeding Standards)."
+3.	Row Organization: Each row in the table represents a specific criterion or aspect that is being assessed. In this example, criteria related to various aspects of understanding and presentation in an electronics topic are included.
+4.	Bullet Points (Checkboxes): In the "Criteria (Check as Applicable)" column, checkboxes (represented as ☐) are placed to indicate whether a specific criterion has been met or not. These checkboxes can be easily replaced with "X" or other suitable symbols if needed.
+5.	Alignment: Columns within each row are aligned to allow a clear separation of the three main aspects being assessed: weaknesses, criteria, and strengths.
+6.	Empty Cells: For some rows, the cells in the "Weakness (Areas that Need Work)" and "Strengths (Evidence of Exceeding Standards)" columns are left empty, as there may not be any specific weaknesses or strengths identified for those criteria.
+7.	Bullet Points (Checkboxes) Alignment: The checkboxes (represented as ☐) in the "Criteria (Check as Applicable)" column are aligned to the center of the cell. This provides a consistent and organized appearance.
+8.	Clear Division: There is a clear visual separation between each aspect of assessment – weaknesses, criteria, and strengths. This division helps in quickly identifying the different components of the assessment.
+Here's the text-based format that CharGPT can use as a template:
+| Weakness (Areas that Need Work) | Criteria (Check as Applicable) | Strengths (Evidence of Exceeding Standards) |
+|---------------------------------|---------------------------------|-----------------------------------------|
+|                                 | ☐ [Criterion 1]                |                                 |
+|                                 | ☐ [Criterion 2]                |                                 |
+|                                 | ☐ [Criterion 3]                |                                 |
+|                                 |                                 |                                 |
+|                                 | ☐ [Criterion 4]                |                                 |
+|                                 | ☐ [Criterion 5]                |                                 |
+|                                 | ☐ [Criterion 6]                |                                 |
+|                                 | ☐ [Criterion 7]                |                                 |
+|                                 |                                 |                                 |
+|                                 | ☐ [Criterion 8]                |                                 |
+|                                 | ☐ [Criterion 9]                |                                 |
+|                                 | ☐ [Criterion 10]               |                                 |
+|                                 |                                 |                                 |
+|                                 | ☐ [Criterion 11]               |                                 |
+|                                 | ☐ [Criterion 12]               |                                 |
+|                                 | ☐ [Criterion 13]               |                                 |
+|                                 |                                 |                                 |
+|                                 | ☐ [Criterion 14]               |                                 |
+|                                 | ☐ [Criterion 15]               |                                 |
+|                                 |                                 |                                 |
+|                                 | ☐ [Criterion 16]               |                                 |
+|                                 | ☐ [Criterion 17]               |                                 |
+|                                 | ☐ [Criterion 18]               |                                 |
+
+Replace the "[Criterion X]" placeholders with the actual criteria you want to assess in each section. You can provide new criteria for each section while keeping the formatting consistent.
+
+
+
+
+
+
+Definitions:
+
+1.	Clear: Your explanations should be easy to understand, free from ambiguity or confusion. The reader should have a clear grasp of the concepts you are explaining.
+2.	Comprehensive: Your explanations should cover all relevant aspects of the topic. You should provide a thorough and complete description of the concepts of capacitance and inductance, leaving no essential details out.
+3.	Accurate: Your explanations should be factually correct. The information you provide about capacitance and inductance should align with established principles and theories in electronics.
+4.	Your essay should be a minimum of 150 words and a maximum of 250 words.
+5.	Use appropriate technical terminology and concepts.
+6.	Provide real-world examples or applications wherever relevant to illustrate your points.
+7.	Use diagrams or schematics if necessary to support your explanations.
+
+8.	Recognizing Significance: This means you should be able to identify and acknowledge how capacitors and inductors play a crucial role in reactive circuits. This recognition involves understanding their functions and importance within such circuits.
+9.	Explaining Significance: You should be capable of providing a clear and detailed explanation of why capacitors and inductors are essential in reactive circuits. This includes describing how they affect circuit behavior, voltage and current waveforms, and their applications in various scenarios.
+10.	Demonstrating Practical Understanding: To demonstrate practical understanding, you need to showcase your ability to apply your knowledge of capacitors and inductors to real-world situations. This may involve discussing practical applications, providing examples, or solving problems related to reactive circuits.
+
+11.	Group discussion was used to answers the questions. 
+12.	The groups worked well together.
+13.	Participation was equal.
+
+Understanding and Application:
+•	Clarity (Achieved / Not Achieved): Explanations are clear, free from ambiguity, ensuring a clear understanding.
+•	Recognition (Achieved / Not Achieved): Demonstrated the ability to identify the roles of capacitors and inductors in reactive circuits.
+•	Explanation (Achieved / Not Achieved): Provided clear and detailed explanations, ensuring a deep understanding of their significance.
+•	Practicality (Achieved / Not Achieved): Showcased the practical application of knowledge through real-world examples, applications, and problem-solving in the context of reactive circuits.
+Criteria and Guidelines: 
+1.	Your explanations should cover all relevant aspects of the topic. You should provide a thorough and complete description of the concepts of capacitance and inductance, leaving no essential details out.
+2.	Your essay should be a minimum of 150 words and a maximum of 250 words.
+3.	Use appropriate technical terminology and concepts.
+4.	Provide real-world examples or applications wherever relevant to illustrate your points.
+5.	Use diagrams or schematics if necessary to support your explanations.
+Content Quality and Precision: 3. Accurate: Your explanations should be factually correct. The information you provide about capacitance and inductance should align with established principles and theories in electronics.
+Teamwork: 
+6.	Group discussion was used to answer the questions.
+7.	The groups worked well together.
+8.	Participation was equal.
+
+
+

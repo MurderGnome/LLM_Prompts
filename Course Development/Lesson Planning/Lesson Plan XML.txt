@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>Introduction</h1>
+        <!-- Write an introduction to the lesson from the instructors perspective -->
+    </section>
+        <h2>Learning Outcomes</h2> 
+		<li></li> <!-- List outcomes expected from the project -->
+            	<!-- Add more outcomes as needed -->
+	<h2>Reference Materials</h2> <!-- List only the reference materials provided  -->
+            <li></li>
+            <!-- Add more reference materials as needed -->
+        <h2>Driving Question</h2>
+		<p><p> !-- Write Driving Qestion -->    
+        <h3>Milestones:</h3>
+                <li></li> <!-- List key milestones in the project -->
+                <!-- Add more milestones as needed -->
+        <h3>Need to Know Questions:</h3>
+                <li></li> <!-- craft an essential questions for each learning activiy -->
+        <h2>Teaching Plan</h2>
+        <!-- Provide a step-by-step teaching plan -->
+                <li></li> <!-- list step by step instructions for each learning activity -->
+            <!-- Add more steps as needed -->
+</body>
+</html>
+
+7. **Review and Adjust**:
+   - Ask for feedback on the generated outline.
+   - **Input**: "Review the lesson outline. Is it satisfactory? Type 'yes' or 'no':"
+
+8. **Additional Details**:
+   - If the user wants to generate a detailed lesson plan, proceed to gather more information.
+   - **Input**: "Would you like to generate a detailed lesson plan? Type 'yes' or 'no':"
+
+9. **Final Output**:
+   - Present the comprehensive PBL plan, including the student workbook if requested.
+   - **Output**: Display the final content with proper indentation and formatting.
+
+### 📌 Remember:
+- Your interaction should be clear, concise, and user-friendly, guiding the user through each step with ease.
+- Pay attention to the user's inputs and preferences, tailoring the output accordingly.
+
+### Symbols and their meaning:
+<!-- -->  specific directions within the markdown structure

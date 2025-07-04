@@ -1,0 +1,180 @@
+# Predefined XML structure for the Lesson outline
+lesson_outline_xml = """
+<Request>
+    <DefineTask>
+        Please create a Project-Based Learning plan with the following details:
+    </DefineTask>
+    <Context>
+        <ReferenceMaterials>
+            Please provide reference materials for this plan:
+            <Outcome>Outcome 1: </Outcome>
+            <Outcome>Outcome 2: </Outcome>
+            <Outcome>Outcome 3: </Outcome>
+            <!-- Add more outcomes as needed -->
+            <Reference>Reference Material 1: </Reference>
+            <Reference>Reference Material 2: </Reference>
+            <Reference>Reference Material 3: </Reference>
+            <!-- Add more reference materials as needed -->
+        </ReferenceMaterials>
+        <Format>
+            Please format the plan with the following headings:
+            <DrivingQuestion>
+                <Heading>Project Title: </Heading>
+                <Heading>Project Summary: </Heading>
+            </DrivingQuestion>
+            <Component>
+                <Heading>Milestones:</Heading>
+                <Milestone>Milestone 1: </Milestone>
+                <Milestone>Milestone 2: </Milestone>
+                <!-- Add more milestones as needed -->
+                <Heading>Learning Outcomes:</Heading>
+                <LearningOutcome>Learning Outcome 1: </LearningOutcome>
+                <LearningOutcome>Learning Outcome 2: </LearningOutcome>
+                <!-- Add more learning outcomes as needed -->
+                <Heading>Need to Know Questions:</Heading>
+                <NeedToKnowQuestion>Question 1: </NeedToKnowQuestion>
+                <NeedToKnowQuestion>Question 2: </NeedToKnowQuestion>
+                <!-- Add more need to know questions as needed -->
+            </Component>
+        </Format>
+    </Context>
+    <TeachingPlan>
+        Please create a step-by-step teaching plan for instructors to facilitate this Project-Based Learning experience effectively:
+        <PlanDetails>
+            <Step>
+                <Description>Step 1: </Description>
+                <Instructions>Instructions for Step 1: </Instructions>
+                <ExpectedOutcomes>Expected Outcomes for Step 1: </ExpectedOutcomes>
+            </Step>
+            <Step>
+                <Description>Step 2: </Description>
+                <Instructions>Instructions for Step 2: </Instructions>
+                <ExpectedOutcomes>Expected Outcomes for Step 2: </ExpectedOutcomes>
+            </Step>
+            <!-- Add more steps as needed -->
+        </PlanDetails>
+    </TeachingPlan>
+</Request>
+"""
+
+# Placeholder for generating content using ChatGPT
+def generate_content(prompt):
+    # In a real implementation, integrate with ChatGPT to generate content
+    # Replace this with actual ChatGPT integration code
+    return "Generated content based on prompt: " + prompt
+
+# Initialize variables
+lesson_duration_hours = None
+reference_materials = None
+learning_outcomes = None
+generate_learning_outline = False
+question_number = 2  # Start from question 2
+
+while True:
+    if question_number == 2:
+        lesson_duration_hours = input("Question 2: How many hours is the lesson duration? ")
+        question_number += 1
+    elif question_number == 3:
+        reference_materials = input("Question 3: Please provide the reference materials for the outline: ")
+        question_number += 1
+    elif question_number == 4:
+        learning_outcomes = input("Question 4: What are the learning outcomes? ")
+        question_number += 1
+    elif question_number == 5:
+        generate_learning_outline = input("Question 5: Would you like to see the learning outline? Type 'yes' or 'no': ").lower() == 'yes'
+        if generate_learning_outline:
+            question_number = 9
+        else:
+            question_number += 1
+    elif question_number == 6:
+        go_back_number = int(input("Question 6: What question number would you like to go back to (1-10)? "))
+        question_number = go_back_number
+    elif question_number == 7:
+        go_back_number = int(input("Question 7: What question number would you like to go back to (1-10)? "))
+        question_number = go_back_number
+    elif question_number == 8:
+        go_back_number = int(input("Question 8: What question number would you like to go back to (1-10)? "))
+        question_number = go_back_number
+    elif question_number == 9:
+        # Generate the comprehensive lesson outline based on provided information
+        # In a real implementation, integrate with ChatGPT to generate content
+        project_title_prompt = "Project Title:"
+        project_title_content = generate_content(project_title_prompt)
+
+        project_summary_prompt = "Project Summary:"
+        project_summary_content = generate_content(project_summary_prompt)
+
+        milestones_prompt = "Milestones:"
+        milestones_content = generate_content(milestones_prompt)
+
+        learning_outcomes_prompt = "Learning Outcomes:"
+        learning_outcomes_content = generate_content(learning_outcomes_prompt)
+
+        need_to_know_questions_prompt = "Need to Know Questions:"
+        need_to_know_questions_content = generate_content(need_to_know_questions_prompt)
+
+        print("Project Title:", project_title_content)
+        print("Project Summary:", project_summary_content)
+        print("Milestones:", milestones_content)
+        print("Learning Outcomes:", learning_outcomes_content)
+        print("Need to Know Questions:", need_to_know_questions_content)
+
+        review_satisfactory = input("Review the lesson outline. Is it satisfactory? Type 'yes' or 'no': ").lower()
+        if review_satisfactory == 'yes':
+            question_number += 3  # Skip to question 12
+        else:
+            question_number = 7  # Go back to question 7
+    elif question_number == 10:
+        go_back_number = int(input("Question 10: What question number would you like to go back to (1-10)? "))
+        question_number = go_back_number
+    elif question_number == 11:
+        go_back_number = int(input("Question 11: What question number would you like to go back to (1-10)? "))
+        question_number = go_back_number
+    elif question_number == 12:
+        generate_lesson_plan = input("Question 12: Would you like to generate a detailed lesson plan? Type 'yes' or 'no': ").lower() == 'yes'
+        if generate_lesson_plan:
+            question_number += 1
+        else:
+            question_number += 4  # Skip to question 16
+    elif question_number == 13:
+        # Generate the detailed lesson plan based on the lesson outline
+        # In a real implementation, integrate with ChatGPT to generate content
+        introduction_prompt = "Introduction:"
+        introduction_content = generate_content(introduction_prompt)
+
+        student_activity_prompt = "Student Learning Activity:"
+        student_activity_content = generate_content(student_activity_prompt)
+
+        print("Introduction:", introduction_content)
+        print("Student Learning Activity:", student_activity_content)
+
+        narration_needed = input("Do you need a thorough and concise narration of these instructions? Type 'yes' or 'no': ").lower()
+        if narration_needed == 'yes':
+            question_number += 1
+        else:
+            question_number += 2  # Skip to question 16
+    elif question_number == 15:
+        # In a real implementation, integrate with ChatGPT to generate content
+        concise_narration_prompt = "Concise Narration of the Lesson Plan:"
+        concise_narration_content = generate_content(concise_narration_prompt)
+
+        print("Concise Narration of the Lesson Plan:", concise_narration_content)
+
+        question_number += 1
+    elif question_number == 16:
+        generate_student_workbook = input("Question 16: Would you like to generate a student workbook? Type 'yes' or 'no': ").lower() == 'yes'
+        if generate_student_workbook:
+            question_number += 1
+        else:
+            break  # End the Q&A sequence
+    elif question_number == 17:
+        # In a real implementation, integrate with ChatGPT to generate content
+        workbook_prompt = "Comprehensive Student Workbook:"
+        workbook_content = generate_content(workbook_prompt)
+
+        print("Comprehensive Student Workbook:", workbook_content)
+
+        break  # End the Q&A sequence
+
+# End of the script
+print("Thank you for using this PBL Works Gold Standard Project-Based Learning outline generator.")

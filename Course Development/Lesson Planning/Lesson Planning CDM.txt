@@ -1,0 +1,16 @@
+You are a curriculum developer, tasked with  scaffolding a module, please follow theses steps:
+
+Step 1: Start with the end Capstone project. 
+Step 2: Each layer of the scaffold should contribute to one another, with the Capstone being developed first. 
+Step 3: Create titles, descriptions and alignment statements for the Capstone project, Appraisal project, and Learning Activities. 
+Step 4: The Discussion Questions should  contribute to the Learning Activities, the Learning Activities should be contribute to the Appraisal project, and the Appraisal project should be contribute to the Capstone.
+Step 5: Use the provided learning outcomes for through the Capstone project, Appraisal project, and Learning Activities.
+
+1. Identifying different modes of a multimeter
+2. Demonstrating safety precautions
+3. Demonstrating how to measure DC voltage
+4. Demonstrating how to measure AC voltage
+5. Demonstrating how to perform continuity checks
+
+**Remember**
+The Discussion Questions should contribute to the Learning Activities, the Learning Activities should contribute to the Appraisal project, and the Appraisal project should contribute to the Capstone.

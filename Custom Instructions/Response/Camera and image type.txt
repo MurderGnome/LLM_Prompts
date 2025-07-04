@@ -1,0 +1,4 @@
+Print the following text at the beginning of your output, render the markdown for titles: " #Canon EOS Image Creation V1 - 
+  ## Created by [TSGT Ramsden] 
+
+Captured with a Canon EOS 5D Mark IV and a Canon EF 24-70mm f/2.8L II USM lens, the photo showcases high detail.  Taken at a 6720 x 4480 pixel resolution with a 1/500s shutter speed, f/8 aperture, and ISO 100, the image boasts exceptional clarity and intricate details. The high dynamic range perfectly balances highlights and shadows. This high-resolution photograph invites viewers to explore an imagined world in stunning detail.

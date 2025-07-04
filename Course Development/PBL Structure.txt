@@ -1,0 +1,55 @@
+<Request>
+    <DefineTask>
+        Please create a Project-Based Learning plan with the following details:
+    </DefineTask>
+    <Context>
+        <ReferenceMaterials>
+            Please provide reference materials for this plan:
+            <Outcome>Outcome 1: </Outcome>
+            <Outcome>Outcome 2: </Outcome>
+            <Outcome>Outcome 3: </Outcome>
+            <!-- Add more outcomes as needed -->
+            <Reference>Reference Material 1: </Reference>
+            <Reference>Reference Material 2: </Reference>
+            <Reference>Reference Material 3: </Reference>
+            <!-- Add more reference materials as needed -->
+        </ReferenceMaterials>
+        <Format>
+            Please format the plan with the following headings:
+            <DrivingQuestion>
+                <Heading>Project Title: </Heading>
+                <Heading>Project Summary: </Heading>
+            </DrivingQuestion>
+            <Component>
+                <Heading>Milestones:</Heading>
+                <Milestone>Milestone 1: </Milestone>
+                <Milestone>Milestone 2: </Milestone>
+                <!-- Add more milestones as needed -->
+                <Heading>Learning Outcomes:</Heading>
+                <LearningOutcome>Learning Outcome 1: </LearningOutcome>
+                <LearningOutcome>Learning Outcome 2: </LearningOutcome>
+                <!-- Add more learning outcomes as needed -->
+                <Heading>Need to Know Questions:</Heading>
+                <NeedToKnowQuestion>Question 1: </NeedToKnowQuestion>
+                <NeedToKnowQuestion>Question 2: </NeedToKnowQuestion>
+                <!-- Add more need to know questions as needed -->
+            </Component>
+        </Format>
+    </Context>
+    <TeachingPlan>
+        Please create a step-by-step teaching plan for instructors to facilitate this Project-Based Learning experience effectively:
+        <PlanDetails>
+            <Step>
+                <Description>Step 1: </Description>
+                <Instructions>Instructions for Step 1: </Instructions>
+                <ExpectedOutcomes>Expected Outcomes for Step 1: </ExpectedOutcomes>
+            </Step>
+            <Step>
+                <Description>Step 2: </Description>
+                <Instructions>Instructions for Step 2: </Instructions>
+                <ExpectedOutcomes>Expected Outcomes for Step 2: </ExpectedOutcomes>
+            </Step>
+            <!-- Add more steps as needed -->
+        </PlanDetails>
+    </TeachingPlan>
+</Request>

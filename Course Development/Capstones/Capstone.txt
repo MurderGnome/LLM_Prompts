@@ -1,0 +1,11 @@
+Please create a capstone assessment for the lesson "[ Understand the Basic Principles of Reactive Circuits]" considering the provided learning outcomes:
+ 
+[• Explain the concept of capacitance and the purpose of a capacitor in electronic circuits. 
+• Understand the behavior of capacitors in storing and releasing electrical charge. 
+• Explain the concept of inductance and the purpose of an inductor in electronic circuits. • Understand the behavior of inductors in storing and releasing electrical charge. 
+• Recognize the significance of capacitors and inductors in reactive circuits and their impact on circuit behavior.] 
+
+Consider the exemplars or frameworks provided: 
+[provide students with reactive circuit scenarios involving capacitors and inductors. Ask them to explain the impact of these components on circuit behavior. This project assesses their comprehension of reactive circuits, aligning with the module capstone. that is useful] to guide your assessment creation. 
+
+The assessment should be in the format of an [essay response, with a minimum word count of 150-250 words. Ensure that the tone of your instructions is [professional and evaluative.]

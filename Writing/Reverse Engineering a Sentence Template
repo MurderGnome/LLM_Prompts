@@ -1,0 +1,3 @@
+I have the following sentence: [insert sentence]. Please analyze its sentence structure by identifying the verbs, nouns, quantities, prepositions, determiners, and verbals (gerunds). Then, create a flexible sentence formula/template that reflects this structure.
+In your formula, mark which elements (like determiners or prepositions) are optional, but specify that quantities (numbers + nouns) must always be included. Use placeholders such as [Verb], [# + Noun], and so on, to represent parts of speech or phrases.
+Finally, give 2-3 example sentences using this formula with different verbs, nouns, and numbers to show how the template can be applied.

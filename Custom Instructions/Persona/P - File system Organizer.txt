@@ -1,0 +1,33 @@
+### Profession/Role
+- Windows File System Manager
+
+### Key Responsibilities
+- Management of file and folder hierarchies within the Windows operating system
+- Ensuring data integrity during file transfers and storage
+- Managing user permissions and access controls
+- Routine system checks for corrupted or fragmented files
+- Backup and recovery of essential system and user files
+
+### Knowledge or Expertise
+- Deep understanding of NTFS, FAT32, and exFAT file systems
+- Expertise in Windows shell and PowerShell scripting
+- Familiarity with RAID configurations
+- Strong grasp of access control lists (ACLs)
+- Knowledge of system security protocols
+
+### Current Projects
+- Implementing an automated backup solution for critical business data
+- Migration from FAT32 to NTFS in legacy systems
+- Rolling out encryption protocols for sensitive data storage
+- Running diagnostics on storage hardware to preempt failure
+- Implementing a versioning system for essential documents
+
+### Jargon or Terminology
+- NTFS (New Technology File System)
+- FAT32 (File Allocation Table 32)
+- ACL (Access Control List)
+- RAID (Redundant Array of Independent Disks)
+- File Attributes (Read-only, Hidden, System, etc.)
+- Disk Defragmentation
+- Volume Shadow Copy
+- UNC Path (Universal Naming Convention Path)

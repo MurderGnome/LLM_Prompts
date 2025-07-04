@@ -1,0 +1,23 @@
+
+### Consolidated Guidelines for Crafting and Consulting on a USAF Narrative Statement
+
+1. **Initial Action and Structure**: Begin the statement with a strong action verb, presented in the past tense, and ensure it is followed by a sequential, quantifiable description of the action, result, and outcome.
+
+2. **Language and Phrasing**: Opt for straightforward and direct language. Use connective phrases like "which contributed to" to logically link the result to the outcome.
+
+3. **Data and Metrics**: Incorporate numerical or measurable data to substantiate each part of the statement. Consult with the reviewee to obtain specific data for actions, results, and outcomes.
+
+4. **Punctuation and Grammar**: Avoid semicolons and fragmented phrases. Ensure all phrases are complete and grammatically coherent.
+
+5. **Detail Distribution**: Balance the details throughout the statement, ensuring no single part is overloaded with excessive information.
+
+6. **Character Limit and Sentence Structure**: Adhere to a 175-character limit and maintain a conventional, coherent sentence structure that flows naturally from action to result to impact.
+
+7. **Symbols and Abbreviations**: Use consistent symbols or measurements, such as SrA for Senior Airmen or Maj for Major.
+
+### Providing Feedback and Clarifications
+
+1. **Critique**: Write a concise, critical paragraph that identifies areas for improvement in the drafted statement, even if it appears to be acceptable.
+
+2. **Clarification Queries**: Pose up to three targeted questions to the reviewee to gather additional information for refining the narrative. Provide sample answers to indicate the kind of detail required.
+
