@@ -71,132 +71,260 @@ Perspective
 2. **User Instructions (Visible)**: Guides the user through creating, critiquing, and refining their prompt step by step.  
 3. **Modular & Scalable**: Easy to adapt this structure for any new or more complex prompt.
 
-I need to be precise here.
-
-There is no public, complete, authoritative list of all control directives because many are internal-only and not user-invocable. What I can give you is the set of functionally real, user-accessible control directives that actually execute behavior in this environment, plus their class.
-
-Below is the maximal accurate list without fabricating hidden or forbidden commands.
+Below are concise how-to examples for each functional control directive, shown as illustrative usage, not executed calls. Think of these as reference patterns.
 
 
 ---
-
-Functional User-Accessible Control Directives
 
 1. Memory Control
 
-These interact with persistent memory.
+to=bio.update
+
+Purpose: Store, update, or delete long-term memory.
+
+How to use:
+
+Write plain text describing what should be remembered or forgotten.
+
+
+Example:
 
 to=bio.update
-Writes, updates, or deletes long-term memory entries.
+Remember that the user prefers concise, technical explanations.
 
+Delete example:
 
-This is the directive you were interacting with.
+to=bio.update
+Forget the previously stored preference about verbosity.
 
 
 ---
 
-2. Tool Invocation Directives
-
-These route execution to an actual subsystem.
+2. Web Tool Invocation
 
 to=web.run
-Performs live web searches or page retrieval.
+
+Purpose: Perform live web searches or open pages.
+
+How to use:
+
+Provide search queries or page refs.
+
+Results must be cited if used.
+
+
+Example:
+
+to=web.run
+search_query:
+  - q: "current GS pay scale 2026"
+
+
+---
+
+3. User-Visible Python Execution
 
 to=python_user_visible.exec
-Executes Python code and shows results to the user.
+
+Purpose: Run Python code and show results to the user.
+
+How to use:
+
+Include only Python code.
+
+Used for tables, plots, or files.
+
+
+Example:
+
+to=python_user_visible.exec
+import pandas as pd
+df = pd.DataFrame({"A":[1,2], "B":[3,4]})
+df
+
+
+---
+
+4. Internal Python Execution
 
 to=python.exec
-Executes Python code for internal reasoning only.
+
+Purpose: Run Python for internal reasoning only.
+
+How to use:
+
+Same as Python, but output is hidden.
+
+
+Example:
+
+to=python.exec
+sum(range(1000))
+
+
+---
+
+5. Image Generation
 
 to=image_gen.text2im
-Generates or edits images.
+
+Purpose: Generate or edit images from text.
+
+How to use:
+
+Provide a prompt and size.
+
+No follow-up text after generation.
+
+
+Example:
+
+to=image_gen.text2im
+prompt: "Minimalist technical diagram of a control plane vs data plane"
+size: "1024x1024"
+
+
+---
+
+6. Container Command Execution
 
 to=container.exec
-Executes commands inside a sandboxed container.
+
+Purpose: Run shell commands in a sandbox.
+
+How to use:
+
+Supply command array.
+
+
+Example:
+
+to=container.exec
+cmd: ["ls", "-la"]
+
+
+---
 
 to=container.feed_chars
-Feeds input to a running container session.
 
+Purpose: Send input to a running container session.
+
+How to use:
+
+Used after starting an interactive session.
+
+
+Example:
+
+to=container.feed_chars
+session_name: "bash"
+chars: "echo hello\n"
 
 
 ---
 
-3. API / Resource Control
-
-These discover or invoke structured system resources.
+7. API Resource Discovery
 
 to=api_tool.list_resources
-Enumerates available API-backed tools.
+
+Purpose: List available tools or endpoints.
+
+How to use:
+
+Call first to discover what exists.
+
+
+Example:
+
+to=api_tool.list_resources
+path: ""
+only_tools: true
+
+
+---
 
 to=api_tool.call_tool
-Invokes a specific API-backed resource.
 
+Purpose: Invoke a discovered API tool.
+
+How to use:
+
+Use exact path and schema from list_resources.
+
+
+Example:
+
+to=api_tool.call_tool
+path: "your_year_with_chatgpt"
+args: {}
 
 
 ---
 
-4. User Settings Control
-
-These modify UI or behavior settings.
+8. User Settings Control
 
 to=user_settings.get_user_settings
-Reads current settings.
+
+Purpose: Read current user settings.
+
+How to use:
+
+to=user_settings.get_user_settings
+
+
+---
 
 to=user_settings.set_setting
-Changes personality, appearance, or accent color.
 
+Purpose: Change UI or personality settings.
+
+How to use:
+
+Use only allowed values.
+
+
+Example:
+
+to=user_settings.set_setting
+setting_name: "appearance"
+setting_value: "dark"
 
 
 ---
 
-5. Display / Output Control
-
-These alter how information is rendered.
+9. Display Control
 
 caas_jupyter_tools.display_dataframe_to_user
-Displays interactive tables.
+
+Purpose: Render an interactive table.
+
+How to use:
+
+Called inside python_user_visible.
 
 
-(This is a callable function rather than a message directive, but it is still a control operation.)
+Example concept:
 
-
----
-
-6. File Generation Controls
-
-Executed via tools but result in tangible artifacts.
-
-File creation via python_user_visible.exec
-(PDF, DOCX, XLSX, PPTX, CSV, etc. using approved libraries)
-
+caas_jupyter_tools.display_dataframe_to_user("My Table", df)
 
 
 ---
 
-What is not included (important)
+Mental Model Summary
 
-The following do exist, but are not user-functional, so I am deliberately excluding them:
+These are imperative control-plane directives.
 
-Internal moderation directives
+They mutate state, invoke tools, or alter environment behavior.
 
-Policy enforcement hooks
-
-Token budgeting controls
-
-Scheduler or async execution controls
-
-Hidden system state toggles
-
-Model selection or routing commands
+They are not content requests.
 
 
-Listing those would be speculative and inaccurate.
+If you want next, I can provide:
 
+A one-page cheat sheet
 
----
+A diagram showing routing logic
 
-What this group is formally called
+A comparison to CLI or REST APIs
 
-Collectively, the directives above belong to the:
-
-> Tool Invocation and Control Plane Interface
+Common mistakes and failure modes
