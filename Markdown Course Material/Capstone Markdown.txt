@@ -1,8 +1,0 @@
-# Lesson Title
-
-## Learning Outcomes:
-### • <!-- List all learning outcomes -->
-
-# Student Instructions: 
-## <!-- provide detailed instructions for the student to complete the assessment -->
-
