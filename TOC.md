@@ -1,4 +1,4 @@
-# LLM Prompts Repository Index
+# Repository Table of Contents
 
 - **Bias Removal/**
 - **Capabilities/**
@@ -9,7 +9,6 @@
   - [tailwindcss dio website prompt.txt](Computers/tailwindcss dio website prompt.txt)
 - **Course Development/**
   - [PBL Structure.txt](Course Development/PBL Structure.txt)
-  - [Scaffold Design for PBL.docx](Course Development/Scaffold Design for PBL.docx)
   - **1. This Might be it/**
     - [1. Objective.txt](Course Development/1. This Might be it/1. Objective.txt)
     - [2. Outomes.txt](Course Development/1. This Might be it/2. Outomes.txt)
@@ -34,9 +33,6 @@
     - [Capstone Markdown.txt](Course Development/Markdown Course Material/Capstone Markdown.txt)
     - [Lesson Plan Markdown.txt](Course Development/Markdown Course Material/Lesson Plan Markdown.txt)
   - **Not good prompts/**
-    - [Generate a 4 hr PBL.docx](Course Development/Not good prompts/Generate a 4 hr PBL.docx)
-    - [Lesson Plan and POI.docx](Course Development/Not good prompts/Lesson Plan and POI.docx)
-    - [Not sure but.docx](Course Development/Not good prompts/Not sure but.docx)
   - **Rubrics/**
     - [Rubric Formatting 1.txt](Course Development/Rubrics/Rubric Formatting 1.txt)
     - [Rubric docx Maker _GPT4_.txt](Course Development/Rubrics/Rubric docx Maker _GPT4_.txt)
@@ -45,14 +41,11 @@
     - [5. Activites.txt](Course Development/SLA's/5. Activites.txt)
   - **Student Workbooks/**
     - [Student Workbook from a lesson plan.txt](Course Development/Student Workbooks/Student Workbook from a lesson plan.txt)
-    - [Student Workbook.docx](Course Development/Student Workbooks/Student Workbook.docx)
   - **Templates/**
     - [CourseCreatorGPT.txt](Course Development/Templates/CourseCreatorGPT.txt)
-    - [Document (1).docx](Course Development/Templates/Document (1).docx)
     - [PBL Structure.txt](Course Development/Templates/PBL Structure.txt)
 - **Custom Instructions/**
   - [Camera and image type.txt](Custom Instructions/Camera and image type.txt)
-  - [Dall E3 Custom Instructions.PDF](Custom Instructions/Dall E3 Custom Instructions.PDF)
   - [KB Query and Adherence.txt](Custom Instructions/KB Query and Adherence.txt)
   - [P - File system Organizer.txt](Custom Instructions/P - File system Organizer.txt)
   - [P - Narrative Writer.txt](Custom Instructions/P - Narrative Writer.txt)

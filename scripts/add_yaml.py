@@ -7,7 +7,6 @@ def add_yaml_header(file_path):
     with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
         content = f.read()
 
-    # Skip if YAML front-matter is already present
     if content.startswith("---"):
         print(f"Skipping (already has YAML): {file_path}")
         return
@@ -32,7 +31,7 @@ version: "1.0"
 
 def main():
     for root, dirs, files in os.walk(REPO_DIR):
-        if "/." in root or root.endswith("/.git") or "/scripts" in root:
+        if "/." in root or root.endswith("/.git") or "/scripts" in root or "/.scripts" in root:
             continue
         for file in files:
             if file.endswith((".txt", ".md")) and file not in ["README.md", "TOC.md"]:

@@ -6,7 +6,6 @@ cd "$REPO_DIR"
 
 echo "Starting repository cleanup..."
 
-# Move loose root text files into target categories
 if [ -f "GPT Magic Words.txt" ]; then
     mkdir -p "Meta Prompts"
     mv "GPT Magic Words.txt" "Meta Prompts/"
@@ -19,7 +18,6 @@ if [ -f "KB Query and Adherence.txt" ]; then
     echo "Moved KB Query and Adherence.txt to Custom Instructions/"
 fi
 
-# Consolidate root Markdown Course Material directory
 if [ -d "Markdown Course Material" ]; then
     mkdir -p "Course Development/Markdown Course Material"
     mv "Markdown Course Material/"* "Course Development/Markdown Course Material/" 2>/dev/null || true
@@ -27,7 +25,6 @@ if [ -d "Markdown Course Material" ]; then
     echo "Consolidated Markdown Course Material directory"
 fi
 
-# Remove root zip archive if present
 if [ -f "GPT-Prompts-main.zip" ]; then
     rm -f "GPT-Prompts-main.zip"
     echo "Removed GPT-Prompts-main.zip"
