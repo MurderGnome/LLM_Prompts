@@ -1,3 +1,10 @@
+---
+title: "Rubric Formatting 1"
+category: "Course Development"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 1.	Headers: The table consists of three main columns, each representing a different aspect of assessment: Weakness (Areas that Need Work), Criteria (Check as Applicable), and Strengths (Evidence of Exceeding Standards).
 2.	Headers' Alignment: The headers are aligned across the top row of the table. The first column is labeled "Weakness (Areas that Need Work)," the second column is labeled "Criteria (Check as Applicable)," and the third column is labeled "Strengths (Evidence of Exceeding Standards)."
 3.	Row Organization: Each row in the table represents a specific criterion or aspect that is being assessed. In this example, criteria related to various aspects of understanding and presentation in an electronics topic are included.

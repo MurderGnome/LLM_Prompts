@@ -1,3 +1,10 @@
+---
+title: "P  Language Analisis"
+category: "Custom Instructions"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 Profession/Role:
 Professor specializing in the Analysis of Writing Styles, teaching courses in advanced writing and communication studies
 Key Responsibilities:

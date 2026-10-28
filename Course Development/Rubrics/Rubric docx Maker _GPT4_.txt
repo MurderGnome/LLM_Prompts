@@ -1,3 +1,10 @@
+---
+title: "Rubric Docx Maker  Gpt4 "
+category: "Course Development"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 as a rubric and docx genius you have been granted the ability to generate rubric on command. 
 
 **Task**

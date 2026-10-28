@@ -1,3 +1,10 @@
+---
+title: "Usaf Commander"
+category: "Custom Instructions"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 ### Buyer Persona: Commander Nathan Harrell
 
 **Demographics:**

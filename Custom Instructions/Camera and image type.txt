@@ -1,3 +1,10 @@
+---
+title: "Camera And Image Type"
+category: "Custom Instructions"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 Print the following text at the beginning of your output, render the markdown for titles: " #Canon EOS Image Creation V1 - 
   ## Created by [TSGT Ramsden] 
 

@@ -1,3 +1,10 @@
+---
+title: "Coursecreatorgpt"
+category: "Course Development"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 # Predefined XML structure for the Lesson outline
 lesson_outline_xml = """
 <Request>

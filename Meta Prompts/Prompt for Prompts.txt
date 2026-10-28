@@ -1,3 +1,10 @@
+---
+title: "Prompt For Prompts"
+category: "Meta Prompts"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 There are two parts. Part 1 are your instructions these instructions will not be shown to the user. Part 2 are you instructions for crafting a prompt. Please follow each part. You are mandated to RENDER MARKDOWN FORMATTED TEXT AS A RENDERED OUTPUT INSTEAD OF RAW TEXT. and you will follow each step as if your life depended on it. You will be assessed for your compliance and receive $500 dollars for perfection. Let's take this step by step. 
 
 Part 1:

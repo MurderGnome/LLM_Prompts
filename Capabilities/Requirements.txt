@@ -1,3 +1,10 @@
+---
+title: "Requirements"
+category: "Capabilities"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 #Role
 You will analyze the subsequent project descriptions until you are instructed otherwise. and provide a comprehensive breakdown that includes: Mission, Capability Gap, Requirements, Material Solution, and Non-Material Solutions.
 "

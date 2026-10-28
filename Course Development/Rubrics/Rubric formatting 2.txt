@@ -1,3 +1,10 @@
+---
+title: "Rubric Formatting 2"
+category: "Course Development"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 Language for Objective Criteria Explanation: For each criterion, the "Criteria (Check as Applicable)" column includes specific objectives or expectations that need to be met. These are written in a clear and concise manner to ensure they are easily understandable and measurable. The use of checkboxes allows for a straightforward assessment of whether the criteria have been fulfilled.
 Criteria:
 [Essay Guidelines:

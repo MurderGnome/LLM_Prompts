@@ -1,3 +1,10 @@
+---
+title: "Capstone"
+category: "Course Development"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 Please create a capstone assessment for the lesson "[ Understand the Basic Principles of Reactive Circuits]" considering the provided learning outcomes:
  
 [• Explain the concept of capacitance and the purpose of a capacitor in electronic circuits. 

@@ -1,3 +1,10 @@
+---
+title: "Lesson Plan Markdown"
+category: "Course Development"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 # Lesson Plan
 
 ## Learning Outcomes

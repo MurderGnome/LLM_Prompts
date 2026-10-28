@@ -1,3 +1,10 @@
+---
+title: "Ig  Requires Lesson Plan  "
+category: "Course Development"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 As an expert in creating instructional guidance, I need you to do the following steps:
 
 Step 1: Internally analyze the following information contained in brackets, to generate instructional guidance based on the lesson plan that I provide in step 4.

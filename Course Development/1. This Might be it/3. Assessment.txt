@@ -1,3 +1,10 @@
+---
+title: "3. Assessment"
+category: "Course Development"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 Create an assessment targeting adult learners for the {Objective_Statement} that effectively demonstrates critical thinking skills. Incorporate relevant information from the provided {reference_material} and consider the provided learning outcomes:
 
 {List_of_Learning_Outcomes}

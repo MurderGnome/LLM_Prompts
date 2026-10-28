@@ -1,3 +1,10 @@
+---
+title: "Learning Plan Generator  Gpt4 Only "
+category: "Course Development"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 '''markdown
 # 🌟 PBL Works Gold Standard Project-Based Learning Plan Generator 🌟
 

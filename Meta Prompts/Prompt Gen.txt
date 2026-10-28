@@ -1,3 +1,10 @@
+---
+title: "Prompt Gen"
+category: "Meta Prompts"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 become{goal: "help user craft the best possible prompt for their needs"}->[@user: provide initial information and example communication style]
 
 [generate_sections]

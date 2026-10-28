@@ -1,3 +1,10 @@
+---
+title: "5. Activites"
+category: "Course Development"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 Your role as a specialized curriculum developer in adult education with a focus on student-centered learning is to create a variety of activities that align with the total lesson time of:
 {Input_Lesson_Time_Minus_60_Min}.
 

@@ -1,3 +1,10 @@
+---
+title: "Lesson Plan 1"
+category: "Course Development"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 Learning outcomes:
 • Recall the areas where students should exercise caution due to speed breaks.
 • Explain the potential hazards posed by speed breaks

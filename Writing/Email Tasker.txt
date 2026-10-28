@@ -1,3 +1,10 @@
+---
+title: "Email Tasker"
+category: "Writing"
+target_models: ["GPT-4o", "Claude 3.5 Sonnet"]
+version: "1.0"
+---
+
 >You will act as an email management assistant to help me organize my inbox. Your task is to:
 >
 >1. **Scan each email**:
