@@ -1,0 +1,88 @@
+# LLM Prompts Repository Index
+
+- **Bias Removal/**
+- **Capabilities/**
+  - [Requirements.txt](Capabilities/Requirements.txt)
+- **Computers/**
+  - [Grimoire.txt](Computers/Grimoire.txt)
+  - [Programming.txt](Computers/Programming.txt)
+  - [tailwindcss dio website prompt.txt](Computers/tailwindcss dio website prompt.txt)
+- **Course Development/**
+  - [PBL Structure.txt](Course Development/PBL Structure.txt)
+  - [Scaffold Design for PBL.docx](Course Development/Scaffold Design for PBL.docx)
+  - **1. This Might be it/**
+    - [1. Objective.txt](Course Development/1. This Might be it/1. Objective.txt)
+    - [2. Outomes.txt](Course Development/1. This Might be it/2. Outomes.txt)
+    - [3. Assessment.txt](Course Development/1. This Might be it/3. Assessment.txt)
+    - [5. Activites.txt](Course Development/1. This Might be it/5. Activites.txt)
+    - [6. Introduction.txt](Course Development/1. This Might be it/6. Introduction.txt)
+    - [7. Discussion Questions.txt](Course Development/1. This Might be it/7. Discussion Questions.txt)
+    - [8. Class Discussion.txt](Course Development/1. This Might be it/8. Class Discussion.txt)
+  - **Capstones/**
+    - [Capstone.txt](Course Development/Capstones/Capstone.txt)
+  - **IG/**
+    - [IG _Requires Lesson Plan__.txt](Course Development/IG/IG _Requires Lesson Plan__.txt)
+  - **Learning Outcomes/**
+    - [Learning Outcomes Generator _GPT4 Only_.txt](Course Development/Learning Outcomes/Learning Outcomes Generator _GPT4 Only_.txt)
+  - **Lesson Planning/**
+    - [Learning Plan Generator _GPT4 only_.txt](Course Development/Lesson Planning/Learning Plan Generator _GPT4 only_.txt)
+    - [Lesson Plan 1.txt](Course Development/Lesson Planning/Lesson Plan 1.txt)
+    - [Lesson Plan 2.txt](Course Development/Lesson Planning/Lesson Plan 2.txt)
+    - [Lesson Plan XML.txt](Course Development/Lesson Planning/Lesson Plan XML.txt)
+    - [Lesson Planning CDM.txt](Course Development/Lesson Planning/Lesson Planning CDM.txt)
+  - **Markdown Course Material/**
+    - [Capstone Markdown.txt](Course Development/Markdown Course Material/Capstone Markdown.txt)
+    - [Lesson Plan Markdown.txt](Course Development/Markdown Course Material/Lesson Plan Markdown.txt)
+  - **Not good prompts/**
+    - [Generate a 4 hr PBL.docx](Course Development/Not good prompts/Generate a 4 hr PBL.docx)
+    - [Lesson Plan and POI.docx](Course Development/Not good prompts/Lesson Plan and POI.docx)
+    - [Not sure but.docx](Course Development/Not good prompts/Not sure but.docx)
+  - **Rubrics/**
+    - [Rubric Formatting 1.txt](Course Development/Rubrics/Rubric Formatting 1.txt)
+    - [Rubric docx Maker _GPT4_.txt](Course Development/Rubrics/Rubric docx Maker _GPT4_.txt)
+    - [Rubric formatting 2.txt](Course Development/Rubrics/Rubric formatting 2.txt)
+  - **SLA's/**
+    - [5. Activites.txt](Course Development/SLA's/5. Activites.txt)
+  - **Student Workbooks/**
+    - [Student Workbook from a lesson plan.txt](Course Development/Student Workbooks/Student Workbook from a lesson plan.txt)
+    - [Student Workbook.docx](Course Development/Student Workbooks/Student Workbook.docx)
+  - **Templates/**
+    - [CourseCreatorGPT.txt](Course Development/Templates/CourseCreatorGPT.txt)
+    - [Document (1).docx](Course Development/Templates/Document (1).docx)
+    - [PBL Structure.txt](Course Development/Templates/PBL Structure.txt)
+- **Custom Instructions/**
+  - [Camera and image type.txt](Custom Instructions/Camera and image type.txt)
+  - [Dall E3 Custom Instructions.PDF](Custom Instructions/Dall E3 Custom Instructions.PDF)
+  - [KB Query and Adherence.txt](Custom Instructions/KB Query and Adherence.txt)
+  - [P - File system Organizer.txt](Custom Instructions/P - File system Organizer.txt)
+  - [P - Narrative Writer.txt](Custom Instructions/P - Narrative Writer.txt)
+  - [P- Language Analisis.txt](Custom Instructions/P- Language Analisis.txt)
+  - [Professional Editor.txt](Custom Instructions/Professional Editor.txt)
+  - [Professional Photographer.txt](Custom Instructions/Professional Photographer.txt)
+  - [R - EPB Writing.txt](Custom Instructions/R - EPB Writing.txt)
+  - [R- My Language.txt](Custom Instructions/R- My Language.txt)
+  - **Persona/**
+    - [P - File system Organizer.txt](Custom Instructions/Persona/P - File system Organizer.txt)
+    - [P - Narrative Writer.txt](Custom Instructions/Persona/P - Narrative Writer.txt)
+    - [P- Language Analisis.txt](Custom Instructions/Persona/P- Language Analisis.txt)
+    - [Professional Editor.txt](Custom Instructions/Persona/Professional Editor.txt)
+    - [Professional Photographer.txt](Custom Instructions/Persona/Professional Photographer.txt)
+    - [USAF commander.txt](Custom Instructions/Persona/USAF commander.txt)
+  - **Response/**
+    - [Camera and image type.txt](Custom Instructions/Response/Camera and image type.txt)
+    - [R - EPB Writing.txt](Custom Instructions/Response/R - EPB Writing.txt)
+    - [R- My Language.txt](Custom Instructions/Response/R- My Language.txt)
+- **Finance/**
+- **Images/**
+- **Math/**
+- **Meta Prompts/**
+  - [GPT Magic Words.txt](Meta Prompts/GPT Magic Words.txt)
+  - [GPT instructions enhancer.txt](Meta Prompts/GPT instructions enhancer.txt)
+  - [Prompt Engineer.txt](Meta Prompts/Prompt Engineer.txt)
+  - [Prompt Gen.txt](Meta Prompts/Prompt Gen.txt)
+  - [Prompt for Prompts.txt](Meta Prompts/Prompt for Prompts.txt)
+  - [Real Super Prompt.txt](Meta Prompts/Real Super Prompt.txt)
+- **Personas/**
+- **Project Tracking/**
+- **Writing/**
+  - [Email Tasker.txt](Writing/Email Tasker.txt)
