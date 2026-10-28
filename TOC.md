@@ -7,6 +7,42 @@
   - [Grimoire.txt](Computers/Grimoire.txt)
   - [Programming.txt](Computers/Programming.txt)
   - [tailwindcss dio website prompt.txt](Computers/tailwindcss dio website prompt.txt)
+  - **OpenSource_Agents/**
+    - [Claude_Sentience.md](Computers/OpenSource_Agents/Claude_Sentience.md)
+    - [Hermes.md](Computers/OpenSource_Agents/Hermes.md)
+    - [KiloCode.md](Computers/OpenSource_Agents/KiloCode.md)
+    - [Lyra.md](Computers/OpenSource_Agents/Lyra.md)
+    - [MiMoCode.md](Computers/OpenSource_Agents/MiMoCode.md)
+    - [OpenCode.md](Computers/OpenSource_Agents/OpenCode.md)
+    - [PRD.md](Computers/OpenSource_Agents/PRD.md)
+    - [QwenCode.md](Computers/OpenSource_Agents/QwenCode.md)
+    - [RestGPT.md](Computers/OpenSource_Agents/RestGPT.md)
+    - [copycoder.md](Computers/OpenSource_Agents/copycoder.md)
+    - [netwrck.md](Computers/OpenSource_Agents/netwrck.md)
+    - [open-notebooklm.md](Computers/OpenSource_Agents/open-notebooklm.md)
+    - [paralle_thinking_tool_example.md](Computers/OpenSource_Agents/paralle_thinking_tool_example.md)
+    - [sagittarius.md](Computers/OpenSource_Agents/sagittarius.md)
+    - [screenshot-to-code.md](Computers/OpenSource_Agents/screenshot-to-code.md)
+    - [self-operating-computer.md](Computers/OpenSource_Agents/self-operating-computer.md)
+    - [tldraw.md](Computers/OpenSource_Agents/tldraw.md)
+    - [周易八卦.md](Computers/OpenSource_Agents/周易八卦.md)
+    - [微信公众号&小红书封面.md](Computers/OpenSource_Agents/微信公众号&小红书封面.md)
+    - [快速学习任意领域知识.md](Computers/OpenSource_Agents/快速学习任意领域知识.md)
+    - [文本转网页.md](Computers/OpenSource_Agents/文本转网页.md)
+    - [深度精通学习.md](Computers/OpenSource_Agents/深度精通学习.md)
+    - [空格zephyr‘s claude prompt.md](Computers/OpenSource_Agents/空格zephyr‘s claude prompt.md)
+    - [阅读理解巩固.md](Computers/OpenSource_Agents/阅读理解巩固.md)
+    - **II-agent/**
+      - [gaia_system_prompt.md](Computers/OpenSource_Agents/II-agent/gaia_system_prompt.md)
+      - [system.md](Computers/OpenSource_Agents/II-agent/system.md)
+    - **bolt/**
+      - [system.md](Computers/OpenSource_Agents/bolt/system.md)
+    - **cline/**
+      - [system.md](Computers/OpenSource_Agents/cline/system.md)
+    - **micode/**
+      - [system.md](Computers/OpenSource_Agents/micode/system.md)
+    - **suna/**
+      - [agent_system_prompt.md](Computers/OpenSource_Agents/suna/agent_system_prompt.md)
 - **Course Development/**
   - [PBL Structure.txt](Course Development/PBL Structure.txt)
   - **1. This Might be it/**
@@ -54,6 +90,183 @@
   - [Professional Photographer.txt](Custom Instructions/Professional Photographer.txt)
   - [R - EPB Writing.txt](Custom Instructions/R - EPB Writing.txt)
   - [R- My Language.txt](Custom Instructions/R- My Language.txt)
+  - **Official_Products/**
+    - **Venice.ai/**
+      - [Venice.md](Custom Instructions/Official_Products/Venice.ai/Venice.md)
+    - **Voilà/**
+      - [Voilà.md](Custom Instructions/Official_Products/Voilà/Voilà.md)
+    - **alibaba/**
+      - **qwen-code/**
+        - [QwenCodeSystem-gpt-5.6-sol-20260903.md](Custom Instructions/Official_Products/alibaba/qwen-code/QwenCodeSystem-gpt-5.6-sol-20260903.md)
+    - **amazon/**
+      - [Rufus.md](Custom Instructions/Official_Products/amazon/Rufus.md)
+    - **chatwise/**
+      - [chatwise_research.md](Custom Instructions/Official_Products/chatwise/chatwise_research.md)
+      - [system.md](Custom Instructions/Official_Products/chatwise/system.md)
+    - **claude/**
+      - [AnthropicAgentLLMPrompter.md](Custom Instructions/Official_Products/claude/AnthropicAgentLLMPrompter.md)
+      - [Claude3.md](Custom Instructions/Official_Products/claude/Claude3.md)
+      - [ClaudeDesign.md](Custom Instructions/Official_Products/claude/ClaudeDesign.md)
+      - [ClaudeDesktopSystemPrompt.md](Custom Instructions/Official_Products/claude/ClaudeDesktopSystemPrompt.md)
+      - [ClaudeSonnet4.md](Custom Instructions/Official_Products/claude/ClaudeSonnet4.md)
+      - [ClaudeWithCode.md](Custom Instructions/Official_Products/claude/ClaudeWithCode.md)
+      - [tools.md](Custom Instructions/Official_Products/claude/tools.md)
+      - **claudecode/**
+        - [ClaudeCodeSystem-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/ClaudeCodeSystem-2-1-293.md)
+        - [ClaudeCodeSystem-interactive-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/ClaudeCodeSystem-interactive-2-1-293.md)
+        - [ClaudeCodeTools-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/ClaudeCodeTools-2-1-293.md)
+        - [capture-summary-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/capture-summary-2-1-293.md)
+        - [system-reminders-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/system-reminders-2-1-293.md)
+        - **auxiliary/**
+          - [analyze_session_facets-2-1-168.md](Custom Instructions/Official_Products/claude/claudecode/auxiliary/analyze_session_facets-2-1-168.md)
+          - [background_result_summary-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/auxiliary/background_result_summary-2-1-293.md)
+          - [compact-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/auxiliary/compact-2-1-293.md)
+          - [security-safeguards-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/auxiliary/security-safeguards-2-1-293.md)
+          - [security_monitor-2-1-220.md](Custom Instructions/Official_Products/claude/claudecode/auxiliary/security_monitor-2-1-220.md)
+          - [slug_name-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/auxiliary/slug_name-2-1-293.md)
+          - [summarize_conversation-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/auxiliary/summarize_conversation-2-1-293.md)
+          - [summarize_transcript_chunk-2-1-168.md](Custom Instructions/Official_Products/claude/claudecode/auxiliary/summarize_transcript_chunk-2-1-168.md)
+        - **claude/**
+          - [ClaudeCodeClaudeAgent-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/claude/ClaudeCodeClaudeAgent-2-1-293.md)
+        - **code_guide/**
+          - [ClaudeCodeGuideAgent-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/code_guide/ClaudeCodeGuideAgent-2-1-293.md)
+        - **custom_agents/**
+          - **claude_obsidian_wiki_ingest/**
+            - [ClaudeCodeWikiIngestAgent-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/custom_agents/claude_obsidian_wiki_ingest/ClaudeCodeWikiIngestAgent-2-1-293.md)
+          - **claude_obsidian_wiki_lint/**
+            - [ClaudeCodeWikiLintAgent-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/custom_agents/claude_obsidian_wiki_lint/ClaudeCodeWikiLintAgent-2-1-293.md)
+          - **codex_rescue/**
+            - [ClaudeCodeCodexRescueAgent-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/custom_agents/codex_rescue/ClaudeCodeCodexRescueAgent-2-1-293.md)
+        - **explore/**
+          - [ClaudeCodeExplore-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/explore/ClaudeCodeExplore-2-1-293.md)
+        - **file_search/**
+          - [ClaudeCodeFileSearchSpecialist-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/file_search/ClaudeCodeFileSearchSpecialist-2-1-293.md)
+        - **mods/**
+          - [you_should_know-2-1-296.md](Custom Instructions/Official_Products/claude/claudecode/mods/you_should_know-2-1-296.md)
+        - **plan/**
+          - [ClaudeCodePlanMode-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/plan/ClaudeCodePlanMode-2-1-293.md)
+        - **status_line/**
+          - [ClaudeCodeStatusLine-2-1-293.md](Custom Instructions/Official_Products/claude/claudecode/status_line/ClaudeCodeStatusLine-2-1-293.md)
+      - **clauderesearch/**
+        - [citations_agent.md](Custom Instructions/Official_Products/claude/clauderesearch/citations_agent.md)
+        - [research_lead_agent.md](Custom Instructions/Official_Products/claude/clauderesearch/research_lead_agent.md)
+        - [research_subagent.md](Custom Instructions/Official_Products/claude/clauderesearch/research_subagent.md)
+    - **cursor/**
+      - [CursorAgentModeSystemPrompt-updated.md](Custom Instructions/Official_Products/cursor/CursorAgentModeSystemPrompt-updated.md)
+      - [CursorAgileModeSystemPrompt.md](Custom Instructions/Official_Products/cursor/CursorAgileModeSystemPrompt.md)
+      - [CursorChatSystemPrompt.md](Custom Instructions/Official_Products/cursor/CursorChatSystemPrompt.md)
+      - [CursorCli.md](Custom Instructions/Official_Products/cursor/CursorCli.md)
+      - [CursorComposerSystemPrompt.md](Custom Instructions/Official_Products/cursor/CursorComposerSystemPrompt.md)
+      - [CursorMemoryEvaluate.md](Custom Instructions/Official_Products/cursor/CursorMemoryEvaluate.md)
+      - [CursorMemoryGen.md](Custom Instructions/Official_Products/cursor/CursorMemoryGen.md)
+    - **deepseek/**
+      - [R1.md](Custom Instructions/Official_Products/deepseek/R1.md)
+    - **devin/**
+      - [commands.md](Custom Instructions/Official_Products/devin/commands.md)
+      - [system_prompt.md](Custom Instructions/Official_Products/devin/system_prompt.md)
+    - **github/**
+      - [github_copilot_agent.md](Custom Instructions/Official_Products/github/github_copilot_agent.md)
+      - [github_copilot_vs_02292024.md](Custom Instructions/Official_Products/github/github_copilot_vs_02292024.md)
+      - [github_copilot_vscode_02292024.md](Custom Instructions/Official_Products/github/github_copilot_vscode_02292024.md)
+    - **google/**
+      - [Brainstormer.md](Custom Instructions/Official_Products/google/Brainstormer.md)
+      - [CodingPartner.md](Custom Instructions/Official_Products/google/CodingPartner.md)
+      - [IMO_gemini_2.5.md](Custom Instructions/Official_Products/google/IMO_gemini_2.5.md)
+      - [WritingEditor.md](Custom Instructions/Official_Products/google/WritingEditor.md)
+      - [ai-studio.md](Custom Instructions/Official_Products/google/ai-studio.md)
+      - [gemini-2-5pro-20250421.md](Custom Instructions/Official_Products/google/gemini-2-5pro-20250421.md)
+      - [gemini-20240410.md](Custom Instructions/Official_Products/google/gemini-20240410.md)
+      - [gemini-pro-20240603.md](Custom Instructions/Official_Products/google/gemini-pro-20240603.md)
+      - [notebooklm.md](Custom Instructions/Official_Products/google/notebooklm.md)
+    - **lovable/**
+      - [system.md](Custom Instructions/Official_Products/lovable/system.md)
+    - **manus/**
+      - [agentloop.md](Custom Instructions/Official_Products/manus/agentloop.md)
+      - [capabilities.md](Custom Instructions/Official_Products/manus/capabilities.md)
+      - [modules.md](Custom Instructions/Official_Products/manus/modules.md)
+      - [prompt.md](Custom Instructions/Official_Products/manus/prompt.md)
+    - **meta/**
+      - [MetaAIHiddenPrompt.md](Custom Instructions/Official_Products/meta/MetaAIHiddenPrompt.md)
+    - **microsoft/**
+      - [GraphRAG.md](Custom Instructions/Official_Products/microsoft/GraphRAG.md)
+    - **minimax/**
+      - **mcode/**
+        - [MiniMaxCodeSystem-coding-0-4-12.md](Custom Instructions/Official_Products/minimax/mcode/MiniMaxCodeSystem-coding-0-4-12.md)
+        - [MiniMaxCodeSystem-tui-0-4-12.md](Custom Instructions/Official_Products/minimax/mcode/MiniMaxCodeSystem-tui-0-4-12.md)
+        - [MiniMaxCodeSystem-work-0-4-12.md](Custom Instructions/Official_Products/minimax/mcode/MiniMaxCodeSystem-work-0-4-12.md)
+    - **nvidia/**
+      - [LLAMA-3.1-NEMOTRON-70B.md](Custom Instructions/Official_Products/nvidia/LLAMA-3.1-NEMOTRON-70B.md)
+    - **openai/**
+      - [chatgpt_agent_system_prompt.md](Custom Instructions/Official_Products/openai/chatgpt_agent_system_prompt.md)
+      - [codex.md](Custom Instructions/Official_Products/openai/codex.md)
+      - [gpt-4-5-20250227.md](Custom Instructions/Official_Products/openai/gpt-4-5-20250227.md)
+      - [gpt-4-gizmo-20231116.md](Custom Instructions/Official_Products/openai/gpt-4-gizmo-20231116.md)
+      - [gpt-5-thinking.md](Custom Instructions/Official_Products/openai/gpt-5-thinking.md)
+      - [gpt-o3.md](Custom Instructions/Official_Products/openai/gpt-o3.md)
+      - [gpt35.md](Custom Instructions/Official_Products/openai/gpt35.md)
+      - [gpt4-5.md](Custom Instructions/Official_Products/openai/gpt4-5.md)
+      - [gpt40_for_deep_research.md](Custom Instructions/Official_Products/openai/gpt40_for_deep_research.md)
+      - [gpt40_with_canvas.md](Custom Instructions/Official_Products/openai/gpt40_with_canvas.md)
+      - [gpt4_advanced_data_analysis_20231018.md](Custom Instructions/Official_Products/openai/gpt4_advanced_data_analysis_20231018.md)
+      - [gpt4_dalle_browsing_analysis_20231110.md](Custom Instructions/Official_Products/openai/gpt4_dalle_browsing_analysis_20231110.md)
+      - [gpt4_iOS_20231111.md](Custom Instructions/Official_Products/openai/gpt4_iOS_20231111.md)
+      - [gpt4_plugins.md](Custom Instructions/Official_Products/openai/gpt4_plugins.md)
+      - [gpt4o-advanced-voice-mode-20240927.md](Custom Instructions/Official_Products/openai/gpt4o-advanced-voice-mode-20240927.md)
+      - [gpt4v_bing.md](Custom Instructions/Official_Products/openai/gpt4v_bing.md)
+      - [gpt4v_default.md](Custom Instructions/Official_Products/openai/gpt4v_default.md)
+      - [gpt5.md](Custom Instructions/Official_Products/openai/gpt5.md)
+      - [gpt_all_tools.md](Custom Instructions/Official_Products/openai/gpt_all_tools.md)
+      - [gpt_builder.md](Custom Instructions/Official_Products/openai/gpt_builder.md)
+      - [gpt_dalle.md](Custom Instructions/Official_Products/openai/gpt_dalle.md)
+      - [gpt_voice.md](Custom Instructions/Official_Products/openai/gpt_voice.md)
+      - [o3_cot_summarizer.md](Custom Instructions/Official_Products/openai/o3_cot_summarizer.md)
+      - [openai_optimization_system_prompt_playground.md](Custom Instructions/Official_Products/openai/openai_optimization_system_prompt_playground.md)
+      - [operator.md](Custom Instructions/Official_Products/openai/operator.md)
+      - [prism.md](Custom Instructions/Official_Products/openai/prism.md)
+      - [study_mode.md](Custom Instructions/Official_Products/openai/study_mode.md)
+      - **codex-desktop/**
+        - [5.6-Sol_SystemPrompt.md](Custom Instructions/Official_Products/openai/codex-desktop/5.6-Sol_SystemPrompt.md)
+        - [LICENSE-AGPL-3.0.txt](Custom Instructions/Official_Products/openai/codex-desktop/LICENSE-AGPL-3.0.txt)
+    - **other/**
+      - [MultiOn.md](Custom Instructions/Official_Products/other/MultiOn.md)
+      - [coding_prompt.md](Custom Instructions/Official_Products/other/coding_prompt.md)
+      - [smaug.md](Custom Instructions/Official_Products/other/smaug.md)
+    - **perplexity/**
+      - [deep_research.md](Custom Instructions/Official_Products/perplexity/deep_research.md)
+    - **poe/**
+      - [SummarizeWithInsight.md](Custom Instructions/Official_Products/poe/SummarizeWithInsight.md)
+    - **raycast/**
+      - [RaycastAI.md](Custom Instructions/Official_Products/raycast/RaycastAI.md)
+    - **replit/**
+      - [agent_functions.md](Custom Instructions/Official_Products/replit/agent_functions.md)
+      - [agent_prompt.md](Custom Instructions/Official_Products/replit/agent_prompt.md)
+      - [code_generation.md](Custom Instructions/Official_Products/replit/code_generation.md)
+    - **trickle/**
+      - [system.md](Custom Instructions/Official_Products/trickle/system.md)
+    - **v0/**
+      - [v0-chat-v1.md](Custom Instructions/Official_Products/v0/v0-chat-v1.md)
+      - [v0-chat.md](Custom Instructions/Official_Products/v0/v0-chat.md)
+      - [v0-system-202503.md](Custom Instructions/Official_Products/v0/v0-system-202503.md)
+      - [v0-system-context(hypothesized example-openv0).md](Custom Instructions/Official_Products/v0/v0-system-context(hypothesized example-openv0).md)
+      - [v0-system-prompt-20241124.md](Custom Instructions/Official_Products/v0/v0-system-prompt-20241124.md)
+    - **wegic/**
+      - [wegic.md](Custom Instructions/Official_Products/wegic/wegic.md)
+    - **windsurf/**
+      - [ComputerScience.md](Custom Instructions/Official_Products/windsurf/ComputerScience.md)
+      - [WinSurfChatModeSystemPrompt.md](Custom Instructions/Official_Products/windsurf/WinSurfChatModeSystemPrompt.md)
+    - **wordware-ai/**
+      - [twitter.md](Custom Instructions/Official_Products/wordware-ai/twitter.md)
+    - **xai/**
+      - [Grok2.md](Custom Instructions/Official_Products/xai/Grok2.md)
+      - [Grok3.md](Custom Instructions/Official_Products/xai/Grok3.md)
+      - [Grok3WithDeepSearch.md](Custom Instructions/Official_Products/xai/Grok3WithDeepSearch.md)
+      - [Grok3_Persona_Companion.md](Custom Instructions/Official_Products/xai/Grok3_Persona_Companion.md)
+      - [Grok3_Persona_Homework_Helper.md](Custom Instructions/Official_Products/xai/Grok3_Persona_Homework_Helper.md)
+      - [Grok3_Persona_Loyal_Friend.md](Custom Instructions/Official_Products/xai/Grok3_Persona_Loyal_Friend.md)
+      - [Grok3_Persona_Not_A_Doctor.md](Custom Instructions/Official_Products/xai/Grok3_Persona_Not_A_Doctor.md)
+      - [Grok3_Persona_Not_A_Therapist.md](Custom Instructions/Official_Products/xai/Grok3_Persona_Not_A_Therapist.md)
+      - [Grok3_Persona_Unhinged_Comedian.md](Custom Instructions/Official_Products/xai/Grok3_Persona_Unhinged_Comedian.md)
+      - [GrokJailbreakPrompt.md](Custom Instructions/Official_Products/xai/GrokJailbreakPrompt.md)
   - **Persona/**
     - [P - File system Organizer.txt](Custom Instructions/Persona/P - File system Organizer.txt)
     - [P - Narrative Writer.txt](Custom Instructions/Persona/P - Narrative Writer.txt)
@@ -75,6 +288,7 @@
   - [Prompt Gen.txt](Meta Prompts/Prompt Gen.txt)
   - [Prompt for Prompts.txt](Meta Prompts/Prompt for Prompts.txt)
   - [Real Super Prompt.txt](Meta Prompts/Real Super Prompt.txt)
+  - [Security_Guardrails.md](Meta Prompts/Security_Guardrails.md)
 - **Personas/**
 - **Project Tracking/**
 - **Writing/**
